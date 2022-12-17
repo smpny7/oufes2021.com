@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://oufes2021.com
+
+# Sitemaps
+Sitemap: https://oufes2021.com/sitemap.xml

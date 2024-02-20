@@ -492,23 +492,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vercel/analytics@npm:^1.2.1":
-  version: 1.2.1
-  resolution: "@vercel/analytics@npm:1.2.1"
-  dependencies:
-    server-only: "npm:^0.0.1"
-  peerDependencies:
-    next: ">= 13"
-    react: ^18 || ^19
-  peerDependenciesMeta:
-    next:
-      optional: true
-    react:
-      optional: true
-  checksum: 10c0/82343d9a221de5b114fa6a7e7f2814cd985726d885225b7664fd2173a7d885e1090c407596888286b1e999c9642aa1686030ac18273e3c64e8d93244742706cf
-  languageName: node
-  linkType: hard
-
 "abbrev@npm:^2.0.0":
   version: 2.0.0
   resolution: "abbrev@npm:2.0.0"
@@ -3381,7 +3364,6 @@ __metadata:
     "@types/node": "npm:20.11.19"
     "@types/react": "npm:18.2.57"
     "@types/react-dom": "npm:18.2.19"
-    "@vercel/analytics": "npm:^1.2.1"
     autoprefixer: "npm:^10.4.17"
     clsx: "npm:^2.1.0"
     eslint: "npm:8.56.0"
@@ -3981,13 +3963,6 @@ __metadata:
   bin:
     semver: bin/semver.js
   checksum: 10c0/fbfe717094ace0aa8d6332d7ef5ce727259815bd8d8815700853f4faf23aacbd7192522f0dc5af6df52ef4fa85a355ebd2f5d39f554bd028200d6cf481ab9b53
-  languageName: node
-  linkType: hard
-
-"server-only@npm:^0.0.1":
-  version: 0.0.1
-  resolution: "server-only@npm:0.0.1"
-  checksum: 10c0/4704f0ef85da0be981af6d4ed8e739d39bcfd265b9c246a684060acda5642d0fdc6daffc2308e71e2682c5f508090978802eae0a77623c9b90a49f9ae68048d6
   languageName: node
   linkType: hard
 

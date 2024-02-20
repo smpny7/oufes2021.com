@@ -11,27 +11,26 @@
     "postbuild": "next-sitemap"
   },
   "dependencies": {
-    "next": "13.1.6",
+    "next": "14.1.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "^13.1.6",
-    "@next/font": "^13.1.6",
-    "@tsconfig/recommended": "^1.0.2",
-    "@types/node": "18.13.0",
-    "@types/react": "18.0.28",
-    "@types/react-dom": "18.0.11",
-    "@vercel/analytics": "^0.1.9",
-    "autoprefixer": "^10.4.13",
-    "clsx": "^1.2.1",
-    "eslint": "8.34.0",
-    "eslint-config-next": "13.1.6",
-    "next-sitemap": "^3.1.52",
-    "postcss": "^8.4.31",
-    "prettier": "^2.8.4",
-    "prettier-plugin-tailwindcss": "^0.2.3",
-    "tailwindcss": "^3.2.6",
-    "typescript": "4.9.5"
+    "@next/bundle-analyzer": "^14.1.0",
+    "@tsconfig/recommended": "^1.0.3",
+    "@types/node": "20.11.19",
+    "@types/react": "18.2.57",
+    "@types/react-dom": "18.2.19",
+    "@vercel/analytics": "^1.2.1",
+    "autoprefixer": "^10.4.17",
+    "clsx": "^2.1.0",
+    "eslint": "8.56.0",
+    "eslint-config-next": "14.1.0",
+    "next-sitemap": "^4.2.3",
+    "postcss": "^8.4.35",
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.11",
+    "tailwindcss": "^3.4.1",
+    "typescript": "5.3.3"
   }
 }
